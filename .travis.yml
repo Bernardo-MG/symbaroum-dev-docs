@@ -1,0 +1,5 @@
+# Travis CI Configuration file
+# @link https://travis-ci.org/
+
+# Using a generic enviroment
+language: generic
