@@ -21,7 +21,7 @@ Using templates imposed constraints about how the character can be set up, letti
 
 ## Monster Creation
 
-It works just like character creation, only that it uses a different data set.
+It works just like character creation, only that it uses a different data set. They both can be merged.
 
 ## Artifact Creation
 
