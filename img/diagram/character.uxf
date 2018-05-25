@@ -7,7 +7,7 @@
       <x>910</x>
       <y>220</y>
       <w>170</w>
-      <h>530</h>
+      <h>550</h>
     </coordinates>
     <panel_attributes>Character
 --
@@ -22,6 +22,7 @@
 -quote
 -toughness
 -maxToughness
+-defense
 -corruption
 -permanentCorruption
 -painTreshold
