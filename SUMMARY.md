@@ -1,8 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [Aspects of the Game](aspects-of-the-game.md)
+* [Aspects of the Game](aspects-of-the-game/readme.md)
   * [Character Creation](aspects-of-the-game/character-creation.md)
 * Models
-  * [Character](character.md)
+  * [Character](model/character.md)
+  * [Character Template](model/character_template.md)
 
