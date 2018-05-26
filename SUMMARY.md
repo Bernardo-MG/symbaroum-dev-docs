@@ -10,4 +10,7 @@
   * [Character](model/character.md)
   * [Character Template](model/character_template.md)
 * [Character Creation](character_creation/readme.md)
+* [Security](security/readme.md)
+  * [Roles](security/roles.md)
+  * [Auditing](security/auditing.md)
 
