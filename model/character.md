@@ -8,6 +8,8 @@
 
 Monsters are covered by characters.
 
+The main exception is that the monster have their own set of races.
+
 ## Calculated Values
 
 All the values which are generated from attributes, such as modifiers or secondary attributes, are added to the model.
@@ -27,3 +29,5 @@ These costs will matter when creating or changing characters, and when calculati
 ## Additional Effects
 
 How to handle things such as attribute bonus from burdens?
+
+Beast Lore at adept allows choosing one of several monster races as specialty.
