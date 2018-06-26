@@ -2,6 +2,11 @@
 
 ![](../img/diagram/item.png)
 
+Maybe they should be reduced to:
+
+* Equipable
+* Usable
+
 ## Equipment
 
 Some items, such as armors and weapons, modify a character when equipped.
