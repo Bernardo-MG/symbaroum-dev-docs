@@ -9,7 +9,7 @@
 * Models
   * [Character](model/character.md)
   * [Character Template](model/character_template.md)
-  * [Items](model/items.md)
+* [Items](items/readme.md)
 * [Character Creation](character_creation/readme.md)
   * [Procedure](character_creation/procedure.md)
 * [Security](security/readme.md)

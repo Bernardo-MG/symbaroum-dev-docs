@@ -107,7 +107,9 @@ Some special notions to keep in mind:
 * Each magic tradition is represented by a magical ability
 * Powers are linked to at least one magical tradition
 * Rituals are linked to at least one magical tradition
+* Some rituals are linked to at least one magical specialization
 * Some rituals are linked to a character (a summon)
+* Some rituals are a higher form of another
 
 ## Additional Effects
 
