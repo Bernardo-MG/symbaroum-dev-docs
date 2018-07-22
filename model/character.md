@@ -87,13 +87,36 @@ For example, having one point in Theurgy and buying the power of lay hands at ad
 
 Some rituals allow summoning or creating creatures. These have their own stat block.
 
+## Aspects
+
+The aspects cover all these:
+
+* Abilities
+* Boons
+* Burdens
+* Monstrous Traits
+* Powers
+* Rituals
+* Traits
+
+They are meant to be flexible, adapting to the complex needs of all these components.
+
+Some special notions to keep in mind:
+
+* Races may have their own set of aspects
+* Each magic tradition is represented by a magical ability
+* Powers are linked to at least one magical tradition
+* Rituals are linked to at least one magical tradition
+* Some rituals are linked to a character (a summon)
+
 ## Additional Effects
 
 How to handle things such as attribute bonus from burdens?
 
 * Beast Lore at adept allows choosing one of several monster categories as specialty.
 * Several abilities change which attribute can be used for combat
-* Exception attribute increases the value of an attribute
+* Exceptional attribute increases the value of an attribute
 * Robust changes the formula for defense
 * Traits and abilities, such as robust, change the armor value
 * Contacts makes reference to a group (freeform input)
+* Magic abilities have an impact on how much corruption a character gets from learning magic
