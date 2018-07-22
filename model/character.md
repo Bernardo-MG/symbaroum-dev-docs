@@ -96,3 +96,4 @@ How to handle things such as attribute bonus from burdens?
 * Exception attribute increases the value of an attribute
 * Robust changes the formula for defense
 * Traits and abilities, such as robust, change the armor value
+* Contacts makes reference to a group (freeform input)
