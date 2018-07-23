@@ -111,6 +111,55 @@ Some special notions to keep in mind:
 * Some rituals are linked to a character (a summon)
 * Some rituals are a higher form of another
 
+## Actions
+
+Each character has two actions:
+
+* Movement
+* Active action
+
+Some aspects can modify this. Should the actions be part of the model?
+
+## Damage Bonus
+
+The character may have several damage bonus:
+
+* Base damage
+* Single attack
+* For a type of weapon
+* Advantage attacks
+
+## Attack Attributes
+
+By default accuracy is used for the attacks.
+
+The following attacks may have an additional attribute:
+
+* Advantage
+* Normal attack
+
+In these cases the additional attribute should be noted.
+
+## Defense Value
+
+By default quick is used for defense. Some aspects may add additional attributes.
+
+Defense should be noted for all the possible attributes.
+
+Defense is modified by aspects, for example armors with the cumbersome quality or the berserker ability.
+
+## Initiative
+
+By default quick is used for initiative. Some aspects may add additional attributes.
+
+This should be noted.
+
+## Mystical Power Ability
+
+By default mystical powers are used with resolute modified by the armor encumbrance. Some aspects may change this formula. Some aspects may add additional attributes.
+
+This should be noted.
+
 ## Additional Effects
 
 How to handle things such as attribute bonus from burdens?
