@@ -87,6 +87,8 @@ For example, having one point in Theurgy and buying the power of lay hands at ad
 
 Some rituals allow summoning or creating creatures. These have their own stat block.
 
+Magical powers have their own set of stats, such as attacks which increase in power as the power level increases.
+
 ## Aspects
 
 The aspects cover all these:
