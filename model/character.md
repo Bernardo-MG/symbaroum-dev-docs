@@ -162,6 +162,10 @@ By default mystical powers are used with resolute modified by the armor encumbra
 
 This should be noted.
 
+## Monstrous Traits
+
+Some monstrous traits require others. For example acidic attack requires acidic blood.
+
 ## Additional Effects
 
 How to handle things such as attribute bonus from burdens?

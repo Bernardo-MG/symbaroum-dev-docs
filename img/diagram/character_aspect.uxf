@@ -188,4 +188,16 @@ Represented by</panel_attributes>
 Higher form</panel_attributes>
     <additional_attributes>50.0;10.0;50.0;50.0;30.0;50.0;30.0;10.0</additional_attributes>
   </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>390</x>
+      <y>240</y>
+      <w>100</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+Requires</panel_attributes>
+    <additional_attributes>80.0;30.0;10.0;30.0;10.0;10.0;80.0;10.0</additional_attributes>
+  </element>
 </diagram>

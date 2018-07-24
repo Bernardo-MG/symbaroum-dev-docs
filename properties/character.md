@@ -37,9 +37,14 @@ Having an aspect or equipment with any of these properties will have the indicat
 
 |Property|Effect|Notes|
 |---|---|---|
+|Damage attribute|Instead of health the damage takes away an attribute|Attribute name|
 |Damage die bonus|Adds additional damage to advantage attacks|Type of attack + die level progression + single attack flag|
 |Damage level bonus|Increases the damage of ranged attacks|Type of attack + level increase, Integer|
+|Damage over time|Causes damage for a set of turns|Damage die level + number of turns die level|
+|Damage reduction|Reduces damage from a source by dividing it by a value|Damage type + damage reduction|
+|Damage type|Sets damage to be of a type, such as acid or holy|Type|
 |Cause condition|Attacks cause a condition|Name of condition|
+|Cause corruption|Attacks cause temporary corruption to the victim|Die level progression|
 |Ignore armor|Attacks ignore armor|Type of attack|
 
 ## Defense Properties

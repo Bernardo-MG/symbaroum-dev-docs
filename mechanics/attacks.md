@@ -4,14 +4,23 @@
 
 * Advantage
 * Dual wielding
-* Holy
-* Melee
 * Mounted charge
 * Ranged
 * Mystical power
 * Type of weapon
 * Unarmed
 * Weapon with Quality
+
+## Types of Damage
+
+* Acid
+* Alchemical effect
+* Fire
+* Holy
+* Melee
+* Mystical power
+* Poison
+* Unholy
 
 ## Damage Over Time
 
