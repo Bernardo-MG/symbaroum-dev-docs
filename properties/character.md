@@ -8,24 +8,24 @@ Having an aspect or equipment with any of these properties will have the indicat
 
 |Property|Effect|Notes|
 |---|---|---|
-|Craft alchemy|Create alchemical elixirs|Level indicates the range of objects to create|
+|Craft|Create items|Craft subsystem (alchemy, blacksmith, artifacts...), and level|
 |Creature specialisation|Linked to a creature type|Type name|
 |Creature specialisation damage|Additional damage to the creature specialisations|Die level progression|
-|Grants rituals|Allows acquiring rituals|The levels affects the number of rituals|
-|Ignore impending armor - Quick|Ignores the impending modifier for Quick||
+|Grants rituals|Allows acquiring rituals|The level affects the number of rituals|
+|Ignore impending armor|Ignores the impending modifier|Attribute to which the modifier is ignored|
 |Increase healing power|Increases the effect of healing powers|Die level progression|
 |Modify attribute|Changes the value of an attribute|Attribute, integer|
 |Reduce learning corruption|Reduces the corruption caused by learning powers or rituals|Affected school, integer (level)|
 |Reduce power corruption|Reduces the corruption caused by magical powers to the minimum|Affected school|
-|Reduce power corruption - Roll|Reduces the corruption caused by magical powers to the minimum through a roll|Affected school|
+|Reduce power corruption - Roll|Reduces the corruption caused by magical powers to the minimum after a roll|Affected school|
 |Requires custom armor|Can only wear customised armors||
 
 ## Combat Properties
 
 |Property|Effect|Notes|
 |---|---|---|
-|Additional attack attribute|Allows attacking with an alternative attribute|Name of attribute + type of attack|
-|Additional defense attribute|Allows defending with an alternative attribute|Name of attribute + type of defense|
+|Additional attack attribute|Allows attacking with an alternative attribute|Name of attribute, may include type of attack|
+|Additional defense attribute|Allows defending with an alternative attribute|Name of attribute, may include type of defense|
 |Additional initiative attribute|Allows calculating initiative with an alternative attribute|Name of attribute|
 |Dual wielding damage bonus|Increases damage when dual wielding|This is a more complex formula|
 |Extra movement action|Extra movement action each turn||
@@ -38,9 +38,9 @@ Having an aspect or equipment with any of these properties will have the indicat
 |Property|Effect|Notes|
 |---|---|---|
 |Damage attribute|Instead of health the damage takes away an attribute|Attribute name|
-|Damage die bonus|Adds additional damage to advantage attacks|Type of attack + die level progression + single attack flag|
-|Damage level bonus|Increases the damage of ranged attacks|Type of attack + level increase, Integer|
-|Damage over time|Causes damage for a set of turns|Damage die level + number of turns die level|
+|Damage die bonus|Adds additional damage as dice|Type of attack + die level progression + single attack flag|
+|Damage level bonus|Increases the damage dice|Type of attack + level increase|
+|Damage over time|Causes damage for a set of turns|Damage die level + number of turns/die level|
 |Damage reduction|Reduces damage from a source by dividing it by a value|Damage type + damage reduction|
 |Damage type|Sets damage to be of a type, such as acid or holy|Type|
 |Cause condition|Attacks cause a condition|Name of condition|
