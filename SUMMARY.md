@@ -15,6 +15,7 @@
 * Models
   * [Character](model/character.md)
   * [Character Template](model/character_template.md)
+  * [Stats](model/stats.md)
 * [Items](items/readme.md)
 * [Character Creation](character_creation/readme.md)
   * [Procedure](character_creation/procedure.md)
