@@ -45,6 +45,22 @@ Some additional statistics:
 
 Note that resolute for powers is dependent on the armor, so there will be a value for each armor set.
 
+### Attribute modifiers
+
+These are the modifiers calculated from attributes.
+
+### Spent Stat
+
+The following stats can be "spent", meaning they can have a maximum and a current value:
+
+* Corruption
+* Toughness
+
+### Corruption
+
+* Temporal corruption
+* Permanent corruption
+
 ### Armor
 
 The armor value depends on the armor used. But there are several sources for armor, such as traits, which can stack.
