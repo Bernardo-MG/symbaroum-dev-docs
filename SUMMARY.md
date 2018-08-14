@@ -11,6 +11,7 @@
   * [Attacks](mechanics/attacks.md)
   * [Defense](mechanics/defense.md)
 * [Characters](character/readme.md)
+  * [Stats](character/stats.md)
 * Models
   * [Character](model/character.md)
   * [Character Template](model/character_template.md)
