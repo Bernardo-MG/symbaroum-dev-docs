@@ -10,6 +10,7 @@
   * [Values](mechanics/values.md)
   * [Attacks](mechanics/attacks.md)
   * [Defense](mechanics/defense.md)
+* [Characters](character/readme.md)
 * Models
   * [Character](model/character.md)
   * [Character Template](model/character_template.md)

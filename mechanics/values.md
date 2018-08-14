@@ -1,5 +1,15 @@
 # Values
 
+## Attribute modifiers
+
+* 10 = 0
+* Each point below 10 increases the modifier by 1 against the character
+* Each point above 10 increases the modifier by -1 for the character
+
+For example, an attribute at 5 gives a modifier of +5 (in favour of the PCs), while the same attribute at 13 gives a modifier of -3 (against the PCs).
+
+Note that these are meant to be for NPCs, and so they indicate which value should be added to the PC attribute being rolled.
+
 ## Dice Values
 
 Some values are mapped to dice. These follow a direct progression from 1d4 up to 1d12:
