@@ -16,27 +16,6 @@ All the values which are generated from attributes, such as modifiers or seconda
 
 Depending on the context they will be handled in different ways, in some cases the object will generate them, while in others they will just be stored.
 
-### Secondary values
-
-* Toughness = Strong (minimum 10)
-* Pain Treshold = Strong/2 (rounded up)
-* Defense = Quick - Armor Impending value
-* Corruption Treshold = Resolute/2
-
-Defense may be modified by more things than the armor, for example the robust trait. For this it is better using this formula:
-
-* Defense = Quick - Defense Reduction
-
-### Attribute modifiers
-
-* 10 = 0
-* Each point below 10 increases the modifier by 1 against the character
-* Each point above 10 increases the modifier by -1 for the character
-
-For example, an attribute at 5 gives a modifier of +5 (in favour of the PCs), while the same attribute at 13 gives a modifier of -3 (against the PCs).
-
-Note that these are meant to be for NPCs, and so they indicate which value should be added to the PC attribute being rolled.
-
 ## Limits
 
 Attributes have a minimum value of 5, and a maximum value of 15. Of course this is applied only when creating characters through a template.
@@ -59,9 +38,7 @@ These costs will matter when creating or changing characters, and when calculati
 
 ## Armor
 
-The armor value depends on the armor used. But there are several sources for armor, such as traits, which can stack.
-
-Some of these sources are not real armor. For example robust ignores damage. While these are part of the armor value, they should be noted separatedly.
+The armor value depends on the armor used, combined with other sources. These sources should be noted separatedly.
 
 ## Actions
 
@@ -87,6 +64,8 @@ For example, having one point in Theurgy and buying the power of lay hands at ad
 
 Some rituals allow summoning or creating creatures. These have their own stat block.
 
+Magical powers have their own set of stats, such as attacks which increase in power as the power level increases.
+
 ## Aspects
 
 The aspects cover all these:
@@ -107,7 +86,22 @@ Some special notions to keep in mind:
 * Each magic tradition is represented by a magical ability
 * Powers are linked to at least one magical tradition
 * Rituals are linked to at least one magical tradition
+* Some rituals are linked to at least one magical specialization
 * Some rituals are linked to a character (a summon)
+* Some rituals are a higher form of another
+
+## Actions
+
+Each character has two actions:
+
+* Movement
+* Active action
+
+Some aspects can modify this. Should the actions be part of the model?
+
+## Monstrous Traits
+
+Some monstrous traits require others. For example acidic attack requires acidic blood.
 
 ## Additional Effects
 
