@@ -43,19 +43,9 @@ Defense may be modified by more things than the armor, for example the robust tr
 
 These are the modifiers calculated from attributes.
 
-## Corruption
-
-* Permanent corruption
-
 ## Additional Stats
 
 These are not commented among the main attributes, but still are so important that all characters have it.
-
-### Armor
-
-The armor value depends on the armor used. But there are several sources for armor, such as traits, which can stack.
-
-Some of these sources are not real armor. For example robust ignores damage.
 
 ### Resolute for Powers
 
@@ -74,9 +64,21 @@ The following stats can be "spent", meaning they can have a maximum and a curren
 
 By default quick is used for initiative.
 
+### Corruption
+
+* Permanent corruption
+
 ## Dynamic Stats
 
 These depend on things such as abilities or equipment.
+
+Some of these values may appear several times.
+
+### Armor
+
+The armor value depends on the armor used. But there are several sources for armor, such as traits, which can stack.
+
+Some of these sources are not real armor. For example robust ignores damage.
 
 ### Damage Bonus
 
@@ -113,5 +115,3 @@ Some aspects may add additional attributes.
 ### Mystical Power Ability
 
 By default mystical powers are used with resolute modified by the armor encumbrance. Some aspects may change this formula. Some aspects may add additional attributes.
-
-
