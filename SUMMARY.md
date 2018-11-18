@@ -13,6 +13,7 @@
 * [Characters](character/readme.md)
   * [Stats](character/stats.md)
 * Models
+  * [Aspect](model/aspect.md)
   * [Character](model/character.md)
   * [Character Template](model/character_template.md)
   * [Stats](model/stats.md)

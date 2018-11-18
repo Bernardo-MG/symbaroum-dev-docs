@@ -2,8 +2,6 @@
 
 ![](../img/diagram/character.png)
 
-![](../img/diagram/character_aspect.png)
-
 ## Monsters
 
 Monsters are covered by characters.
