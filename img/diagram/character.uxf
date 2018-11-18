@@ -19,7 +19,13 @@
 -totalExperience
 -unspentExperience
 -quote
--defense</panel_attributes>
+-defense
+-age
+-height
+-weight
+-appearance
+-background
+-personalGoal</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
